@@ -1,0 +1,7 @@
+# Ignore large raw dataset and temporary files
+*.csv
+*.zip
+*.crdownload
+~$*
+.DS_Store
+Thumbs.db
