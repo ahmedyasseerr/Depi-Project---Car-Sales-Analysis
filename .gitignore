@@ -1,6 +1,4 @@
-# Ignore large raw dataset and temporary files
-*.csv
-*.zip
+# Ignore temporary and system files
 *.crdownload
 ~$*
 .DS_Store

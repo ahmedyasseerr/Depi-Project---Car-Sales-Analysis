@@ -58,19 +58,19 @@ The primary objective is to analyze a comprehensive car sales dataset to uncover
 
 ## 📂 Repository Structure
 
-`	ext
-Depi-Project---Car-Sales-Analysis/
-│
-├── 📁 01-Datasets/                  # Dataset documentation & sample data
-├── 📁 02-Excel-Analysis/            # Cleaned data files and exploratory Excel sheets
-├── 📁 03-SQL-Scripts/               # Schema DDL, data import, and analytical queries
-├── 📁 04-PowerBI-Dashboard/         # Power BI report files (.pbix) and dashboard previews
-├── 📁 05-Documentation/             # Project proposal, audit reports, and final documentation
-├── 📄 .gitignore                    # Git ignore file for local and large files
-└── 📄 README.md                     # Main repository landing page
 `
-
----
+Depi-Project---Car-Sales-Analysis/
+├── 01-Datasets/
+│   └── car_prices.csv
+├── 02-Excel-Analysis/
+├── 03-SQL-Scripts/
+├── 04-PowerBI-Dashboard/
+├── 05-Documentation/
+│   ├── Data Collection and Auditing Summary.pdf
+│   └── Project_Planning_and_Management.pdf
+├── .gitignore
+└── README.md
+`
 
 ## 📊 Dataset Overview
 - **Dataset Title:** Vehicle Sales and Market Trends
