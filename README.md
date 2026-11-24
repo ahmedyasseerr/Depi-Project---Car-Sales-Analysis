@@ -77,4 +77,4 @@ Depi-Project---Car-Sales-Analysis/
 ## 📊 Dataset Overview
 - **Dataset Title:** Vehicle Sales and Market Trends
 - **Total Records:** 300,000+ transaction records
-- **Key Columns:** year, make, model, 	rim, ody, 	ransmission, in, state, condition, odometer, color, interior, seller, mmr, sellingprice, saledate.
+- **Key Columns:** year, make, model, trim, body, transmission, vin, state, condition, odometer, color, interior, seller, mmr, sellingprice, saledate.
