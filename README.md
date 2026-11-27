@@ -50,7 +50,7 @@ The primary objective is to analyze a comprehensive car sales dataset to uncover
 | :--- | :--- | :--- | :--- |
 | **Phase 1: Planning** | Project proposal, task allocation, and documentation | Week 1 | Completed |
 | **Phase 2: Data Cleaning** | Cleaned dataset without nulls or invalid values | Week 2 | Completed |
-| **Phase 3: Database & SQL** | SQL tables, schema creation, and analytical queries | Week 3 | Upcoming |
+| **Phase 3: Database & SQL** | SQL tables, schema creation, and analytical queries | Week 3 | Completed |
 | **Phase 4: Power BI Dashboard** | Interactive multi-page Power BI dashboard | Week 4 | Upcoming |
 | **Phase 5: Final Review** | Data verification, presentation slides, and final delivery | Week 5 | Upcoming |
 
