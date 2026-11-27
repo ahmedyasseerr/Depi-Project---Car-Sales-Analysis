@@ -65,16 +65,19 @@ Depi-Project---Car-Sales-Analysis/
 ├── 02-Excel-Analysis/
 │   └── Cleaned_Data.xlsx
 ├── 03-SQL-Scripts/
+│   └── create_tables.sql
 ├── 04-PowerBI-Dashboard/
 ├── 05-Documentation/
+│   ├── Car_Sales_Project_Documentation.pdf
 │   ├── Data Collection and Auditing Summary.pdf
 │   ├── Data_Cleaning_Report.pdf
-│   └── Project_Planning_and_Management.pdf
+│   ├── Project_Planning_and_Management.pdf
+│   └── schema_diagram.svg
 ├── .gitignore
 └── README.md
 `
 
 ## 📊 Dataset Overview
 - **Dataset Title:** Vehicle Sales and Market Trends
-- **Total Records:** 300,000+ transaction records
+- **Total Records:** 558,195 raw transaction records, 231,502 records after cleaning
 - **Key Columns:** year, make, model, trim, body, transmission, vin, state, condition, odometer, color, interior, seller, mmr, sellingprice, saledate.
