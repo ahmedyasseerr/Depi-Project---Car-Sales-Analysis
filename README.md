@@ -58,7 +58,7 @@ The primary objective is to analyze a comprehensive car sales dataset to uncover
 
 ## 📂 Repository Structure
 
-`
+```
 Depi-Project---Car-Sales-Analysis/
 ├── 01-Datasets/
 │   └── car_prices.csv
@@ -75,7 +75,7 @@ Depi-Project---Car-Sales-Analysis/
 │   └── schema_diagram.svg
 ├── .gitignore
 └── README.md
-`
+```
 
 ## 📊 Dataset Overview
 - **Dataset Title:** Vehicle Sales and Market Trends
