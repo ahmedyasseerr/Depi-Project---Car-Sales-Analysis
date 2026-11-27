@@ -38,7 +38,7 @@ The primary objective is to analyze a comprehensive car sales dataset to uncover
 | **Nourhan Mohammed Gaber** | **Data Collection & Auditing** | Understand dataset columns, document business requirements, and audit raw data quality. |
 | **Mai Hamada Saber** | **Data Cleaning - Text** | Clean text variables, standardize categorical values, fix data types, and remove duplicates. |
 | **Mohammed Eid Zaki** | **Data Cleaning - Numbers** | Format date fields, handle missing and incorrect numerical values, and detect price outliers. |
-| **Mohammed Alaa Korani** | **Data Modeling** | Design the relational Star Schema, define keys, and create database tables in SQL. |
+| **Mohammed Alaa Korani** | **Data Modeling** | Design the Schema, define keys, and create database tables in SQL. |
 | **Hossam Hisham Abdelmoneim** | **Data Calculation** | Formulate complex SQL analytical queries and create DAX measures for core KPIs. |
 | **Ahmed Yasser Salah** | **Data Visualization** | Architect and design interactive Power BI dashboard pages, visual layouts, and dynamic slicers. |
 
